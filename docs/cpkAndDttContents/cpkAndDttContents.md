@@ -77,7 +77,7 @@ based on: https://pastebin.com/2qDrUheP
 ### cpk005
   - ba: (factory things and more)
     - ba0000 - elevator door
-    - ba010c - container conveyer beltf
+    - ba010c - container conveyer belt
     - ba010d - containers angled
     - ba0100 - intro dropped path
     - ba0105 - elevator inside
