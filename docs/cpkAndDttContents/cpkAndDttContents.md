@@ -26,6 +26,23 @@ based on: https://pastebin.com/2qDrUheP
     - [cpk107](#cpk107)
     - [cpk108](#cpk108)
 
+## Abbreviation Definitions
+* ba - Behavior Action/Anim/AutoDoor?
+* bg - Background
+* bga - Background Anim/Action?
+* bgd - Background Decal/Detail?
+* bgfe - Background F. Entity?
+* bh - Behavior Hacking?
+* cpk - CRI Packed File
+* ef - Effect
+* em - Enemy
+* ema - Enemy Animal
+* it - Item Target/Table?
+* p - Phase (& sub-phase)
+* ph - Phases (folder only?)
+* r - Room/Route
+* st - Scene Task
+
 ### cpk000
   - effect:
     - model:
@@ -60,7 +77,7 @@ based on: https://pastebin.com/2qDrUheP
 ### cpk005
   - ba: (factory things and more)
     - ba0000 - elevator door
-    - ba010c - container conveyer belt
+    - ba010c - container conveyer beltf
     - ba010d - containers angled
     - ba0100 - intro dropped path
     - ba0105 - elevator inside
