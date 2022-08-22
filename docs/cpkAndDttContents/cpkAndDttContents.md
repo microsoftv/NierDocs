@@ -37,11 +37,18 @@ based on: https://pastebin.com/2qDrUheP
 * ef - Effect
 * em - Enemy
 * ema - Enemy Animal
+* et - Event
+* etf - Event Fishing
 * it - Item Target/Table?
 * p - Phase (& sub-phase)
 * ph - Phases (folder only?)
+* pl - Player
+* plf - Player Face (related to PlFaceMask?)
 * r - Room/Route
 * st - Scene Task
+* wp - Weapon
+* wpe - Weapon Enemy/Event?
+* wpf - Weapon Base
 
 ### cpk000
   - effect:
