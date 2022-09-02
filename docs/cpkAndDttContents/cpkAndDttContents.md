@@ -27,9 +27,11 @@ based on: https://pastebin.com/2qDrUheP
     - [cpk108](#cpk108)
 
 ## Abbreviation Definitions
-* ba - Behavior Action/Anim/AutoDoor?
+* ba - Behavior Action/Anim?
+* bab - Behavior Action/Anim Base?
 * bg - Background
 * bga - Background Anim/Action?
+* bgb - Background Base?
 * bgd - Background Decal/Detail?
 * bgfe - Background F. Entity?
 * bh - Behavior Hacking?
@@ -37,18 +39,26 @@ based on: https://pastebin.com/2qDrUheP
 * ef - Effect
 * em - Enemy
 * ema - Enemy Animal
+* emb - Enemy Background/Base?
+* eme - Enemy Equipment?
+* emf - Enemy Face?
 * et - Event
+* ete - Event Equipment?
 * etf - Event Fishing
+* g - Enlighten Graphics Settings
 * it - Item Target/Table?
 * p - Phase (& sub-phase)
 * ph - Phases (folder only?)
 * pl - Player
 * plf - Player Face (related to PlFaceMask?)
+* q - Quest
 * r - Room/Route
 * st - Scene Task
+* wd - World
 * wp - Weapon
 * wpe - Weapon Enemy/Event?
 * wpf - Weapon Base
+* um - User Manager/Menu/Model? (used in ModelShader)
 
 ### cpk000
   - effect:
